@@ -2,9 +2,9 @@ import os #interation with operational system
 os.system('clear') #clear the Screen
 
 '''
-Tudo dentro deste bloco será
-comentário.
-Abra e feche-o com 3 aspas simples
+All in this bloack will be
+commentary.
+Open and close with 3 simple quotes
 '''
 
 full_name = "John Elder"
